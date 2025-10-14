@@ -1,7 +1,7 @@
 # ¡Hola! Soy Federico
 
 ##  Sobre mí
-Desarrollador Junior apasionado por crear soluciones innovadoras y escalables. Me motiva el aprendizaje continuo y la optimización de procesos mediante la tecnología.
+Soy desarrollador web junior, me motiva el aprendizaje continuo y la optimización de procesos mediante la tecnología.
 
 ##  Habilidades
 - JavaScript, HTML, CSS
