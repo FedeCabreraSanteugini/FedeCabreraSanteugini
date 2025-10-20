@@ -4,7 +4,7 @@
 Soy desarrollador web junior, me motiva el aprendizaje continuo y la optimización de procesos mediante la tecnología.
 
 ##  Habilidades
-- JavaScript, HTML, CSS
+- JavaScript, HTML, CSS, Node.js, JSON, SQL.
 
 
 ##  Estadísticas de GitHub
